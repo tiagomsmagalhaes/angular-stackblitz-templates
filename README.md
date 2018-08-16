@@ -4,3 +4,9 @@ This repo will have the mission to list Angular Stackblitz Templates to speed up
 
 * https://stackblitz.com/fork/angular-gitter Main boilerplate (from Angular gitter room)
 * https://stackblitz.com/fork/shared-module-routing With Angular Router and a Service
+
+
+
+# Contributing
+
+Feel free to make a PR and include templates that you think it may be useful.
