@@ -4,6 +4,7 @@ This repo will have the mission to list Angular Stackblitz Templates to speed up
 
 * https://stackblitz.com/fork/angular-gitter Main boilerplate (from Angular gitter room)
 * https://stackblitz.com/fork/shared-module-routing With Angular Router and a Service
+* https://stackblitz.com/edit/angular-enum-in-template Use Typescript Enum in Angular Templates
 
 
 
